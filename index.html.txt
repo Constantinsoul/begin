@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>BaniPenet.com</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="BaniPenet Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#acasa">Acasă</a></li>
+                <li><a href="#despre">Despre</a></li>
+                <li><a href="#servicii">Servicii</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="acasa">
+            <h2>Bun venit pe BaniPenet.com!</h2>
+            <p>Aici găsești cele mai recente informații despre...</p>
+            <!-- Desene, Grafice, sau Elemente Multimedia -->
+            <div class="gallery">
+                <!-- Desene sau Grafice -->
+                <img src="image1.jpg" alt="Desen 1">
+                <img src="image2.jpg" alt="Desen 2">
+                <!-- Continut suplimentar -->
+                <p>Mai mult conținut aici...</p>
+            </div>
+        </section>
+
+        <section id="despre">
+            <h2>Despre Noi</h2>
+            <p>Informații detaliate despre...</p>
+            <!-- Descriere și Detalii -->
+        </section>
+
+        <section id="servicii">
+            <h2>Servicii</h2>
+            <p>Descriere a serviciilor oferite...</p>
+            <!-- Lista de Servicii, Tabel, sau Alte Elemente -->
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Informații de contact și formular...</p>
+            <!-- Formular de Contact, Adresă, Număr de Telefon -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 BaniPenet.com</p>
+    </footer>
+
+</body>
+</html>
